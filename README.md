@@ -1,1 +1,2 @@
-© Copyright by Arkadiusz Włodarczyk. This project was build as a part of his course :)
+# Bubble Sorting
+Simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
